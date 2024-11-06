@@ -1,5 +1,5 @@
 ### Hello 😸
 
 <hr>
-Freshman in college learning to code!
+Colleges student learning to code!
 <br>
